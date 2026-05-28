@@ -12,9 +12,6 @@
     # dài hơn, dễ kiểm tra dữ liệu nhập
     
 # chọn 2, vì: dữ liệu bệnh nhân cần độ chính xác cao, cần kiểm tra lỗi nhập liệu
-# =========================================
-# HỆ THỐNG CHUẨN HÓA DỮ LIỆU BỆNH NHÂN
-# =========================================
 
 patient_id = input("Nhập mã bệnh nhân: ")
 temp_input = input("Nhập nhiệt độ cơ thể: ")
